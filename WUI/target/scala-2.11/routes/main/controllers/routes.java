@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/Users/jonaskaltenbach/Documents/Scala/wui/conf/routes
-// @DATE:Mon Jan 18 11:24:53 CET 2016
+// @SOURCE:/Users/jonaskaltenbach/Documents/Scala/MPS_Connect4/WUI/conf/routes
+// @DATE:Sat Jan 23 12:10:17 CET 2016
 
 package controllers;
 

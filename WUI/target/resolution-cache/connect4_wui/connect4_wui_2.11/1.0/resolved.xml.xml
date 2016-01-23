@@ -4,7 +4,7 @@
 		module="connect4_wui_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20151207120624"
+		publication="20160123120825"
 	>
 		<description>
 		connect4_wui

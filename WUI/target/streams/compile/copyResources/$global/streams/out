@@ -1,3 +1,3 @@
 [debug] Copy resource mappings: 
-[debug] 	(/Users/jonaskaltenbach/Documents/Scala/wui/conf/application.conf,/Users/jonaskaltenbach/Documents/Scala/wui/target/scala-2.11/classes/application.conf)
-[debug] 	(/Users/jonaskaltenbach/Documents/Scala/wui/conf/routes,/Users/jonaskaltenbach/Documents/Scala/wui/target/scala-2.11/classes/routes)
+[debug] 	(/Users/jonaskaltenbach/Documents/Scala/MPS_Connect4/WUI/conf/application.conf,/Users/jonaskaltenbach/Documents/Scala/MPS_Connect4/WUI/target/scala-2.11/classes/application.conf)
+[debug] 	(/Users/jonaskaltenbach/Documents/Scala/MPS_Connect4/WUI/conf/routes,/Users/jonaskaltenbach/Documents/Scala/MPS_Connect4/WUI/target/scala-2.11/classes/routes)
